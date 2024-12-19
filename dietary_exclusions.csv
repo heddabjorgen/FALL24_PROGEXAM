@@ -1,0 +1,230 @@
+diet,ingredient_capitalized,ingredient_lowercase
+vegan,Beef,beef
+vegan,Steak,steak
+vegan,Ground Beef,ground beef
+vegan,Brisket,brisket
+vegan,Short Ribs,short ribs
+vegan,Beef Stock,beef stock
+vegan,Beef Broth,beef broth
+vegan,Pork,pork
+vegan,Ham,ham
+vegan,Bacon,bacon
+vegan,Prosciutto,prosciutto
+vegan,Pepperoni,pepperoni
+vegan,Salami,salami
+vegan,Sausage,sausage
+vegan,Chorizo,chorizo
+vegan,Lardons,lardons
+vegan,Pancetta,pancetta
+vegan,Lamb,lamb
+vegan,Lamb Chops,lamb chops
+vegan,Mutton,mutton
+vegan,Lamb Shank,lamb shank
+vegan,Goat,goat
+vegan,Chicken,chicken
+vegan,Chicken Breast,chicken breast
+vegan,Chicken Thigh,chicken thigh
+vegan,Chicken Wings,chicken wings
+vegan,Chicken Broth,chicken broth
+vegan,Chicken Stock,chicken stock
+vegan,Chicken Fat,chicken fat
+vegan,Turkey,turkey
+vegan,Turkey Breast,turkey breast
+vegan,Turkey Bacon,turkey bacon
+vegan,Duck,duck
+vegan,Duck Confit,duck confit
+vegan,Duck Fat,duck fat
+vegan,Goose,goose
+vegan,Goose Fat,goose fat
+vegan,Quail,quail
+vegan,Venison,venison
+vegan,Boar,boar
+vegan,Rabbit,rabbit
+vegan,Horse,horse
+vegan,Fish,fish
+vegan,Tuna,tuna
+vegan,Salmon,salmon
+vegan,Cod,cod
+vegan,Haddock,haddock
+vegan,Trout,trout
+vegan,Halibut,halibut
+vegan,Mackerel,mackerel
+vegan,Sardines,sardines
+vegan,Anchovies,anchovies
+vegan,Shrimp,shrimp
+vegan,Prawns,prawns
+vegan,Lobster,lobster
+vegan,Crab,crab
+vegan,Scallops,scallops
+vegan,Clams,clams
+vegan,Mussels,mussels
+vegan,Oysters,oysters
+vegan,Squid,squid
+vegan,Octopus,octopus
+vegan,Eel,eel
+vegan,Cow Milk,cow milk
+vegan,Goat Milk,goat milk
+vegan,Sheep Milk,sheep milk
+vegan,Buffalo Milk,buffalo milk
+vegan,Cheese,cheese
+vegan,Butter,butter
+vegan,Ghee,ghee
+vegan,Cream,cream
+vegan,Half And Half,half and half
+vegan,Yogurt,yogurt
+vegan,Kefir,kefir
+vegan,Ice Cream,ice cream
+vegan,Whey,whey
+vegan,Casein,casein
+vegan,Eggs,eggs
+vegan,Egg Whites,egg whites
+vegan,Egg Yolks,egg yolks
+vegan,Mayonnaise,mayonnaise
+vegan,Albumen,albumen
+vegan,Egg Pasta,egg pasta
+vegan,Honey,honey
+vegan,Royal Jelly,royal jelly
+vegan,Propolis,propolis
+vegan,Beeswax,beeswax
+vegan,Gelatin,gelatin
+vegan,Rennet,rennet
+vegan,Lard,lard
+vegan,Suet,suet
+vegan,Tallow,tallow
+vegan,Fish Oil,fish oil
+vegan,Shellac,shellac
+vegan,Carmine,carmine
+vegan,Cochineal,cochineal
+vegan,Bone Char,bone char
+vegan,Insects,insects
+vegan,Insect Protein,insect protein
+vegan,Lactose,lactose
+vegan,Lecithin,lecithin
+vegan,Natural Flavors,natural flavors
+vegan,Isinglass,isinglass
+vegan,Vitamin D3,vitamin d3
+vegan,Lanolin,lanolin
+vegan,Omega 3,omega 3
+vegan,Milk Chocolate,milk chocolate
+vegan,Dark Chocolate With Dairy,dark chocolate with dairy
+vegetarian,Beef,beef
+vegetarian,Steak,steak
+vegetarian,Ground Beef,ground beef
+vegetarian,Brisket,brisket
+vegetarian,Short Ribs,short ribs
+vegetarian,Beef Stock,beef stock
+vegetarian,Beef Broth,beef broth
+vegetarian,Pork,pork
+vegetarian,Ham,ham
+vegetarian,Bacon,bacon
+vegetarian,Prosciutto,prosciutto
+vegetarian,Pepperoni,pepperoni
+vegetarian,Salami,salami
+vegetarian,Sausage,sausage
+vegetarian,Chorizo,chorizo
+vegetarian,Lardons,lardons
+vegetarian,Pancetta,pancetta
+vegetarian,Lamb,lamb
+vegetarian,Lamb Chops,lamb chops
+vegetarian,Mutton,mutton
+vegetarian,Lamb Shank,lamb shank
+vegetarian,Goat,goat
+vegetarian,Chicken,chicken
+vegetarian,Chicken Breast,chicken breast
+vegetarian,Chicken Thigh,chicken thigh
+vegetarian,Chicken Wings,chicken wings
+vegetarian,Chicken Broth,chicken broth
+vegetarian,Chicken Stock,chicken stock
+vegetarian,Chicken Fat,chicken fat
+vegetarian,Turkey,turkey
+vegetarian,Turkey Breast,turkey breast
+vegetarian,Turkey Bacon,turkey bacon
+vegetarian,Duck,duck
+vegetarian,Duck Confit,duck confit
+vegetarian,Duck Fat,duck fat
+vegetarian,Goose,goose
+vegetarian,Goose Fat,goose fat
+vegetarian,Quail,quail
+vegetarian,Venison,venison
+vegetarian,Boar,boar
+vegetarian,Rabbit,rabbit
+vegetarian,Horse,horse
+vegetarian,Fish,fish
+vegetarian,Tuna,tuna
+vegetarian,Salmon,salmon
+vegetarian,Cod,cod
+vegetarian,Haddock,haddock
+vegetarian,Trout,trout
+vegetarian,Halibut,halibut
+vegetarian,Mackerel,mackerel
+vegetarian,Sardines,sardines
+vegetarian,Anchovies,anchovies
+vegetarian,Shrimp,shrimp
+vegetarian,Prawns,prawns
+vegetarian,Lobster,lobster
+vegetarian,Crab,crab
+vegetarian,Scallops,scallops
+vegetarian,Clams,clams
+vegetarian,Mussels,mussels
+vegetarian,Oysters,oysters
+vegetarian,Squid,squid
+vegetarian,Octopus,octopus
+vegetarian,Eel,eel
+vegetarian,Gelatin,gelatin
+vegetarian,Rennet,rennet
+vegetarian,Lard,lard
+vegetarian,Suet,suet
+vegetarian,Tallow,tallow
+vegetarian,Fish Oil,fish oil
+vegetarian,Shellac,shellac
+vegetarian,Carmine,carmine
+vegetarian,Cochineal,cochineal
+vegetarian,Bone Char,bone char
+vegetarian,Isinglass,isinglass
+pescetarian,Beef,beef
+pescetarian,Steak,steak
+pescetarian,Ground Beef,ground beef
+pescetarian,Brisket,brisket
+pescetarian,Short Ribs,short ribs
+pescetarian,Beef Stock,beef stock
+pescetarian,Beef Broth,beef broth
+pescetarian,Pork,pork
+pescetarian,Ham,ham
+pescetarian,Bacon,bacon
+pescetarian,Prosciutto,prosciutto
+pescetarian,Pepperoni,pepperoni
+pescetarian,Salami,salami
+pescetarian,Sausage,sausage
+pescetarian,Chorizo,chorizo
+pescetarian,Lardons,lardons
+pescetarian,Pancetta,pancetta
+pescetarian,Lamb,lamb
+pescetarian,Lamb Chops,lamb chops
+pescetarian,Mutton,mutton
+pescetarian,Lamb Shank,lamb shank
+pescetarian,Goat,goat
+pescetarian,Chicken,chicken
+pescetarian,Chicken Breast,chicken breast
+pescetarian,Chicken Thigh,chicken thigh
+pescetarian,Chicken Wings,chicken wings
+pescetarian,Chicken Broth,chicken broth
+pescetarian,Chicken Stock,chicken stock
+pescetarian,Chicken Fat,chicken fat
+pescetarian,Turkey,turkey
+pescetarian,Turkey Breast,turkey breast
+pescetarian,Turkey Bacon,turkey bacon
+pescetarian,Duck,duck
+pescetarian,Duck Confit,duck confit
+pescetarian,Duck Fat,duck fat
+pescetarian,Goose,goose
+pescetarian,Goose Fat,goose fat
+pescetarian,Quail,quail
+pescetarian,Venison,venison
+pescetarian,Boar,boar
+pescetarian,Rabbit,rabbit
+pescetarian,Horse,horse
+pescetarian,Gelatin,gelatin
+pescetarian,Rennet,rennet
+pescetarian,Lard,lard
+pescetarian,Suet,suet
+pescetarian,Tallow,tallow
